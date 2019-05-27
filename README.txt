@@ -1,0 +1,1 @@
+To compile all seven algorithms run the test method. The testmethod.py will print out a graph plotting all seven methods as well as their absolute error and the method itself. 
